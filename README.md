@@ -2,7 +2,8 @@
 1. Пример комита 
 ```
    <type>: <subject>
-   test: добавлен тест кейс для компонента profile-additional-info 
+   test: добавлен тест кейс для компонента profile-additional-info
+   
     <type>(files) <subject>
     test(profile-additional-info.component.spec.ts) добавлен тест кейс 
     
